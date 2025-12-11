@@ -1,12 +1,14 @@
 @import "tailwindcss";
 
 @theme {
-	/* Colors */
-	--color-plain-green: #25E68E;
-	--color-plain-dark: #080a09;
-	--color-plain-dark-secondary: #131615;
-	--color-plain-gray: #f7f7f5;
-    --color-plain-text-gray: #666666;
+	/* Colors - Ravenna Brand */
+	--color-primary: oklch(0.696 0.17 162.48);
+	--color-primary-dark: oklch(0.508 0.118 165.612);
+	--color-primary-light: oklch(0.845 0.143 164.978);
+	--color-ravenna-dark: #0A0D12;
+	--color-ravenna-dark-secondary: oklch(0.141 0.005 285.823);
+	--color-ravenna-gray: #f7f7f5;
+    --color-ravenna-text-gray: #666666;
 
 	--font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 	--font-display: var(--font-body);

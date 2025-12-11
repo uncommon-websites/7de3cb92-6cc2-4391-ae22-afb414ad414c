@@ -1,10 +1,10 @@
 <footer class="bg-white pt-24 pb-12 overflow-hidden relative">
-  <!-- Background Graphic (Green Lines) -->
+  <!-- Background Graphic (Primary Lines) -->
   <div class="absolute bottom-0 right-0 pointer-events-none opacity-20">
       <svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M0 400C200 400 300 300 400 200C500 100 600 0 600 0" stroke="#25E68E" stroke-width="2"/>
-          <path d="M100 400C300 400 400 300 500 200C600 100 700 0 700 0" stroke="#25E68E" stroke-width="2"/>
-          <path d="M-100 400C100 400 200 300 300 200C400 100 500 0 500 0" stroke="#25E68E" stroke-width="2"/>
+          <path d="M0 400C200 400 300 300 400 200C500 100 600 0 600 0" stroke="oklch(0.696 0.17 162.48)" stroke-width="2"/>
+          <path d="M100 400C300 400 400 300 500 200C600 100 700 0 700 0" stroke="oklch(0.696 0.17 162.48)" stroke-width="2"/>
+          <path d="M-100 400C100 400 200 300 300 200C400 100 500 0 500 0" stroke="oklch(0.696 0.17 162.48)" stroke-width="2"/>
       </svg>
   </div>
 
